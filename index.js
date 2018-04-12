@@ -1,8 +1,8 @@
 function happyHolidays(string){
-return "Happy Holidays"
+return 'Happy Holidays'
 }
 
-happyHolidays(string)
+happyHolidays("string")
 
 function happyHolidaysTo(string) {
   return `Happy holidays, ${name}!`
