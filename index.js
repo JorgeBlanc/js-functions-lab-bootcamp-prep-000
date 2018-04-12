@@ -3,7 +3,7 @@ return "Happy holidays!"
 }
 
 function happyHolidaysTo(string) {
-  return `Happy holidays, ${name}`
+  return `Happy holidays, ${name}!`
 }
 
-happyHolidaysTo("you!")
+happyHolidaysTo("you")
